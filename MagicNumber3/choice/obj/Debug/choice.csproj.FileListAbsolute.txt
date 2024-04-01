@@ -1,0 +1,20 @@
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\bin\Debug\choice.exe.config
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\bin\Debug\choice.exe
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\bin\Debug\choice.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.Properties.Resources.resources
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.exe
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\choice.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\bookPra\choice\choice\obj\Debug\MagicNumber3.Form1.resources
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Debug\choice.exe.config
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Debug\choice.exe
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Debug\choice.pdb
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\MagicNumber3.Form1.resources
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.Properties.Resources.resources
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.exe
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Debug\choice.pdb

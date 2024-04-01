@@ -1,0 +1,11 @@
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Release\MagicNumber3.exe.config
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Release\MagicNumber3.exe
+C:\Users\cotoc\Desktop\MagicNumber3\choice\bin\Release\MagicNumber3.pdb
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.Properties.Resources.resources
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.exe
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.pdb
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.MainForm.resources
+C:\Users\cotoc\Desktop\MagicNumber3\choice\obj\Release\MagicNumber3.PointOutForm.resources
